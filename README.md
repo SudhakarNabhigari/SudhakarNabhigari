@@ -168,9 +168,26 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 ## 🏆 Certifications
 
+
 - Microsoft Azure AI Fundamentals — AI-900
 - Microsoft Azure Data Fundamentals — DP-900
 - Microsoft Azure AI Engineer Associate — AI-102
+
+---
+---
+
+## 🏆 Hackathon Achievement
+
+<div align="center">
+
+### 🥇 Top 10 — Hypnex-2026
+
+**Recognized among the Top 10 teams at Hypnex-2026**  
+Manipal University Jaipur, Rajasthan, India
+
+🚀 Turning innovative ideas into impactful technology solutions.
+
+</div>
 
 ---
 
