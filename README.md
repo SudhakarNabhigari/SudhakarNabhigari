@@ -101,42 +101,70 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack & Technologies
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Technologies+I+Build+With+%F0%9F%9A%80;AI+%7C+Full-Stack+%7C+Cloud;Always+Learning+New+Technologies+%E2%9C%A8" alt="Tech Stack Animation"/>
+
+<br/>
+
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" alt="Programming Languages"/>
+
+<br/><br/>
 
 ### 🌐 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
+
+<br/><br/>
 
 ### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,supabase&theme=dark" alt="Backend and Database Technologies"/>
 
-### 🤖 AI & Cloud
+<br/><br/>
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🤖 Artificial Intelligence & Data Science
 
-### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" alt="AI and Python"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/RAG_APPLICATIONS-00BFA6?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Applications"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+<br/><br/>
+
+### ☁️ Cloud & Microsoft Azure
+
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Microsoft Azure"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
+<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900"/>
+<img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-008272?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900"/>
+<img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-7B2FF7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102"/>
+
+<br/><br/>
+
+### 🔧 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer Tools"/>
+
+<br/><br/>
+
+### ⚡ Always Improving
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7B2FF7&center=true&vCenter=true&width=600&lines=Learning+DSA+with+C%2B%2B+%F0%9F%A7%A9;Exploring+Generative+AI+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Growing+as+an+AI+Engineer+%E2%9C%A8" alt="Learning Animation"/>
+
+</div>
 
 ---
 
