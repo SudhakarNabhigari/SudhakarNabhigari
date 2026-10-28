@@ -100,6 +100,7 @@
 ---
 
 ## 🛠️ Tech Stack
+## ⚡ TECH ARSENAL
 
 <div align="center">
 
@@ -119,79 +120,52 @@
 ### 💻 `01` — Programming Languages
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" alt="Programming Languages"/>
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-Advanced%20Learning-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Problem%20Solving-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 </div>
 
 ### 🌐 `02` — Frontend Engineering
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend Engineering"/>
-
-<br/><br/>
-
-*Crafting modern interfaces and interactive web experiences.*
-
+<br/>
+<sub><i>Crafting modern interfaces and interactive web experiences.</i></sub>
 </div>
 
 ### ⚙️ `03` — Backend & Data
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,supabase&theme=dark" alt="Backend and Database"/>
-
-<br/><br/>
-
-*Building APIs, backend services, and data-driven applications.*
-
+<br/>
+<sub><i>Building APIs, backend services, and data-driven applications.</i></sub>
 </div>
 
 ### 🤖 `04` — AI & Machine Learning
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" alt="AI and Machine Learning"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/GENERATIVE_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/RAG_APPLICATIONS-00BFA6?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-
 </div>
 
 ### ☁️ `05` — Microsoft Azure & Cloud
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Microsoft Azure"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
 <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900"/>
 <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-008272?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900"/>
 <img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-7B2FF7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102"/>
-
 </div>
 
 ### 🛠️ `06` — Developer Tools
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer Tools"/>
-
 </div>
 
 ---
@@ -208,8 +182,6 @@
 <img src="https://img.shields.io/badge/MISSION-INNOVATE%20WITH%20AI-BD00FF?style=for-the-badge&labelColor=101020"/>
 
 </div>
-
----
 ---
 
 ## 🚀 Featured Projects
@@ -253,7 +225,6 @@ A web application concept focused on food sharing and community support.
 
 An AI voice assistant project exploring voice interaction and conversational experiences.
 
----
 
 ---
 
