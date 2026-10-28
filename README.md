@@ -22,29 +22,111 @@
 
 ## 👨‍💻 About Me
 
+```html
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%F0%9F%A4%96;Generative+AI+Engineer+%F0%9F%9A%80;Turning+Ideas+into+Intelligent+Solutions+%E2%9C%A8" alt="Animated Introduction" />
+</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/ROLE-GenAI%20Developer-7B2FF7?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-00D9FF?style=for-the-badge&logo=probot&logoColor=black" />
+  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-00C896?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+### ⚡ Hello, World! I'm Sudhakar Nabhigari.
+
+**🎓 B.Tech CSE | Lovely Professional University**
+
+🤖 Aspiring Generative AI Engineer passionate about building intelligent applications that solve real-world problems.
+
+🚀 From developing AI-powered projects to exploring cloud technologies, I enjoy turning innovative ideas into working solutions.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🧠 AI & Innovation | 💻 Development | ☁️ Cloud & AI |
+|:---:|:---:|:---:|
+| Generative AI | Full-Stack Development | Microsoft Azure |
+| Machine Learning | React & Node.js | Azure AI Services |
+| RAG Applications | API Development | Cloud Solutions |
+
+</div>
+
+---
+
+## 🚀 My Developer Journey
+
+<div align="center">
+
 ```javascript
 const sudhakar = {
-    role: "Generative AI Engineer in Progress",
-    education: "B.Tech in Computer Science Engineering",
-    university: "Lovely Professional University",
+    name: "Sudhakar Nabhigari",
+    role: "Aspiring Generative AI Engineer",
+    education: "B.Tech CSE | LPU",
+
     interests: [
         "Generative AI",
         "Machine Learning",
         "Full-Stack Development",
         "Cloud Computing"
     ],
-    currentlyLearning: [
+
+    learning: [
         "DSA with C++",
-        "Python",
-        "Machine Learning",
+        "Python & Machine Learning",
         "RAG Applications",
-        "Azure AI"
+        "Microsoft Azure AI"
     ],
-    goal: "Build impactful AI-powered applications",
-    motto: "Learn. Build. Improve. Repeat."
+
+    achievement: "Top 10 — Hypnex-2026 🏆",
+
+    philosophy: "Learn. Build. Improve. Repeat. 🚀"
 };
 
-console.log("Building the future with AI 🚀");
+console.log("Building the future with AI 🤖");
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 My Mission
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7B2FF7&center=true&vCenter=true&width=650&lines=Learn+Something+New+Every+Day+%F0%9F%93%9A;Build+Projects+That+Matter+%F0%9F%9A%80;Explore+the+Power+of+Generative+AI+%F0%9F%A4%96;Keep+Growing.+Keep+Creating.+%E2%9C%A8" alt="Animated Mission" />
+
+<br/>
+
+**💡 Learn continuously. Build intelligently. Create impact.**
+
+</div>
+```
+
+### 🔥 Bro, ee redesign lo em special?
+
+- **Typing animation:** Multiple AI-focused messages automatically change.
+- **Animated badges:** Developer role, AI focus, and learning mindset.
+- **Three-column layout:** AI, development, and cloud skills organized neatly.
+- **Developer code card:** Nee profile ni professional developer style lo present chestundi.
+- **Animated mission statement:** README ki dynamic feel istundi.
+
+### ⚠️ Important
+
+GitHub README lo custom CSS, JavaScript animations directly run avvavu. Anduke typing SVGs, badges, tables, and Markdown-compatible HTML use chesam. External animation services available undali; avi load kakapothe corresponding animation kanipinchakapovachu.
+
+**Next level suggestion, bro:** Nee actual portfolio website lo scroll-triggered animations, animated gradient backgrounds, glowing cards, and interactive project cards add cheddam. Avi GitHub README kanna chala advanced ga untayi.
 ```
 
 ## 🛠️ Tech Stack
