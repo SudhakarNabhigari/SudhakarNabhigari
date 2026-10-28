@@ -176,19 +176,19 @@ An AI voice assistant project exploring voice interaction and conversational exp
 ---
 ---
 
-## 🏆 Hackathon Achievement
+## 🏆Achievements
 
 <div align="center">
 
-### 🥇 Top 10 — Hypnex-2026
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=%F0%9F%8F%86+HYPNEX-2026;%F0%9F%A5%87+TOP+10+ACHIEVER;%F0%9F%8E%93+MANIPAL+UNIVERSITY+JAIPUR" alt="Hypnex 2026 Achievement" />
 
-**Recognized among the Top 10 teams at Hypnex-2026**  
-Manipal University Jaipur, Rajasthan, India
+### 🏆 Top 10 — Hypnex-2026
+
+**Manipal University Jaipur, Rajasthan, India**
 
 🚀 Turning innovative ideas into impactful technology solutions.
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
