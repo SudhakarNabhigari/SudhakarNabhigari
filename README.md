@@ -20,7 +20,13 @@
 
 ---
 
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">👨‍💻 ABOUT ME</font></h2></td></tr></table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">👨‍💻 ABOUT ME</font></h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -99,7 +105,13 @@
 
 ---
 
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🛠️ TECH STACK</font></h2></td></tr></table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">🛠️ TECH STACK</font></h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -181,10 +193,16 @@
 <img src="https://img.shields.io/badge/MISSION-INNOVATE%20WITH%20AI-BD00FF?style=for-the-badge&labelColor=101020"/>
 
 </div>
+
 ---
 
-
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🚀 FEATURED PROJECTS</font></h2></td></tr></table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">🚀 FEATURED PROJECTS</font></h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -201,6 +219,7 @@
 ---
 
 ### 🪄 CareerBloom AI
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI-CAREER_PLATFORM-7B2FF7?style=for-the-badge&logo=googlebard&logoColor=white"/>
@@ -232,6 +251,7 @@ An AI-focused career development platform helping students discover career paths
 ---
 
 ### 🧠 GraphMind AI
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI-INTELLIGENT_WORKFLOWS-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -255,6 +275,7 @@ An AI-oriented project focused on intelligent information processing and graph-b
 ---
 
 ### 💼 Smart Job Portal
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/FULL_STACK_WEB_APPLICATION-0078D4?style=for-the-badge&logo=react&logoColor=white"/>
@@ -280,6 +301,7 @@ A full-stack job application platform designed to connect job seekers with oppor
 ---
 
 ### 🌱 Food Share App
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/SOCIAL_IMPACT-00C896?style=for-the-badge&logo=react&logoColor=white"/>
@@ -303,6 +325,7 @@ A web application concept focused on food sharing and community support.
 ---
 
 ### 🎙️ RimeFlow Assist
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI-VOICE_ASSISTANT-7B2FF7?style=for-the-badge&logo=probot&logoColor=white"/>
@@ -328,7 +351,14 @@ An AI voice assistant project exploring voice interaction and conversational exp
 </div>
 
 ---
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">📊 GIT STATISTICS</font></h2></td></tr></table>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">📊 GIT STATISTICS</font></h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -344,7 +374,13 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 ---
 
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🐍 CONTRIBUTION ACTIVITY</font></h2></td></tr></table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">🐍 CONTRIBUTION ACTIVITY</font></h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -358,7 +394,13 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 ---
 
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🎯 CURRENT FOCUS</font></h2></td></tr></table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">🎯 CURRENT FOCUS</font></h2>
+    </td>
+  </tr>
+</table>
 
 - 🧩 Improving problem-solving skills with C++
 - 🐍 Strengthening Python and Machine Learning fundamentals
@@ -369,7 +411,13 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 ---
 
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🏆 CERTIFICATIONS</font></h2></td></tr></table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">🏆 CERTIFICATIONS</font></h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -390,9 +438,16 @@ An AI voice assistant project exploring voice interaction and conversational exp
 ☁️ Microsoft Azure | 🤖 Artificial Intelligence | 📊 Data Fundamentals
 
 </div>
+
 ---
 
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🏅 ACHIEVEMENTS</font></h2></td></tr></table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">🏅 ACHIEVEMENTS</font></h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -405,9 +460,16 @@ An AI voice assistant project exploring voice interaction and conversational exp
 🚀 Turning innovative ideas into impactful technology solutions.
 
 </div>
+
 ---
 
-<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🤝 LET’S CONNECT</font></h2></td></tr></table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <h2><font color="#000000">🤝 LET'S CONNECT</font></h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
