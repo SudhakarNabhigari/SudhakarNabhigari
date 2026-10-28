@@ -176,23 +176,35 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 ## 🏆 Certifications
 
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=🏆+Microsoft+Azure+Certifications;☁️+Cloud+%7C+AI+%7C+Data" alt="Azure Certifications Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=☁️+MICROSOFT+AZURE;🏅+MY+CERTIFICATIONS;🚀+LEARN.+BUILD.+GROW." alt="Animated Azure Certifications" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals" />
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals"/>
+</a>
 
-<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-00C7B7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900 Azure AI Fundamentals" />
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/">
+  <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-00C7B7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900 Azure AI Fundamentals"/>
+</a>
 
-<img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-008272?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900 Azure Data Fundamentals" />
+<br/><br/>
 
-<img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-7F00FF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102 Azure AI Engineer Associate" />
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/">
+  <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900 Azure Data Fundamentals"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/">
+  <img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102 Azure AI Engineer Associate"/>
+</a>
+
+<br/><br/>
+
+**☁️ Microsoft Azure | 🤖 Artificial Intelligence | 📊 Data Fundamentals**
 
 </div>
----
 
 ## 🏆Achievements
 
