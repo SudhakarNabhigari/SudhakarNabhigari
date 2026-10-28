@@ -131,15 +131,19 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudhakarNabhigari&show_icons=true&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SudhakarNabhigari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarNabhigari&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarNabhigari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SudhakarNabhigari&theme=tokyonight&hide_border=true)
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=SudhakarNabhigari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -149,7 +153,11 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/SudhakarNabhigari/SudhakarNabhigari/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/SudhakarNabhigari/SudhakarNabhigari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+<br/>
+
+**Every contribution counts. Keep building! 🚀**
 
 </div>
 
@@ -182,7 +190,7 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=%F0%9F%8F%86+HYPNEX-2026;%F0%9F%A5%87+TOP+10+ACHIEVER;%F0%9F%8E%93+MANIPAL+UNIVERSITY+JAIPUR" alt="Hypnex 2026 Achievement" />
 
-### 🏆 Top 10 — Hypnex-2026
+### 🏆 Top 10 — Hypnexis-2026
 
 **Manipal University Jaipur, Rajasthan, India**
 
