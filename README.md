@@ -1,27 +1,32 @@
-div align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudhakar+Nabhigari;Generative+AI+Engineer;AI+Developer+%7C+Full-Stack+Developer;Building+Intelligent+AI+Applications" alt="Typing SVG" />
   </a>
   <br/><br/>
 </div>
 
-👋 Hi, I'm Sudhakar Nabhigari
-<h3>🚀 Generative AI Engineer | AI Developer | Full-Stack Developer</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+# 👋 Hi, I'm Sudhakar Nabhigari
+
+### 🚀 Generative AI Engineer | AI Developer | Full-Stack Developer
+
 **Building intelligent applications that solve real-world problems.**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/SudhakarNabhigari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SudhakarNabhigari)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=SudhakarNabhigari&color=blueviolet&style=for-the-badge)
 
 </div>
 
-<div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me-00CFE8?style=for-the-badge&labelColor=101020" alt="👨‍💻 About Me"/></h2>
-</div>
+---
+
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">👨‍💻 ABOUT ME</font></h2></td></tr></table>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudhakar+Nabhigari+%F0%9F%91%8B;Generative+AI+Engineer+%F0%9F%A4%96;AI+Developer+%7C+Full-Stack+Developer;Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing Animation" />
 
+<br/>
 
 <a href="https://github.com/SudhakarNabhigari">
 <img src="https://img.shields.io/badge/PROFILE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
@@ -33,18 +38,20 @@ div align="center">
 <img src="https://img.shields.io/badge/ACHIEVEMENT-Hypnex%202026%20Top%2010-FFD700?style=for-the-badge&logo=hackclub&logoColor=black" alt="Hypnex Achievement"/>
 </a>
 
+<br/><br/>
 
+### 🚀 Building the Future with AI
 
-
-<h3>🚀 Building the Future with AI</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
 **Generative AI Engineer | AI Developer | Full-Stack Developer**
 
-Building intelligent applications that solve real-world problems.
+*Building intelligent applications that solve real-world problems.*
+
 </div>
 
-<h3>🎓 A Little About Me</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 🎓 A Little About Me
+
 - 🎓 **Education:** B.Tech in Computer Science Engineering — Lovely Professional University.
 - 🤖 **Passionate About:** Generative AI, Machine Learning, and intelligent applications.
 - 💻 **Development:** Full-Stack Development, APIs, and AI-powered applications.
@@ -52,21 +59,25 @@ Building intelligent applications that solve real-world problems.
 - 🏆 **Achievement:** Top 10 — Hypnex-2026, Manipal University Jaipur.
 - 🎯 **Goal:** Build impactful AI solutions and grow as a Generative AI Engineer.
 
-<h3>🧠 My Developer Journey</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 🧠 My Developer Journey
+
 <div align="center">
 
-🤖 AI & Innovation	💻 Development	☁️ Cloud & AI
-Generative AI	React	Microsoft Azure
-Machine Learning	Node.js	Azure AI
-RAG Applications	TypeScript	Cloud Computing
-AI-powered Solutions	FastAPI	AI Services
-
+| 🤖 AI & Innovation | 💻 Development | ☁️ Cloud & AI |
+|:---:|:---:|:---:|
+| Generative AI | React | Microsoft Azure |
+| Machine Learning | Node.js | Azure AI |
+| RAG Applications | TypeScript | Cloud Computing |
+| AI-powered Solutions | FastAPI | AI Services |
 
 </div>
 
-<h3>⚡ Currently Learning</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### ⚡ Currently Learning
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ DSA"/>
@@ -76,21 +87,25 @@ AI-powered Solutions	FastAPI	AI Services
 
 </div>
 
-<h3>💫 My Philosophy</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 💫 My Philosophy
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7B2FF7&center=true&vCenter=true&width=650&lines=Learn+%F0%9F%93%9A+Build+%F0%9F%9A%80;Improve+%E2%9C%A8+Repeat+%F0%9F%94%A5;Think+Big.+Build+Smart.+Create+Impact." alt="Animated Philosophy"/>
 
 </div>
 
-<div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack-7B2FF7?style=for-the-badge&labelColor=101020" alt="🛠️ Tech Stack"/></h2>
-</div>
+---
+
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🛠️ TECH STACK</font></h2></td></tr></table>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=MY+TECH+UNIVERSE+%F0%9F%8C%8C;POWERED+BY+CODE+%26+AI+%F0%9F%A4%96;BUILDING+THE+FUTURE+%F0%9F%9A%80" alt="Animated Tech Universe"/>
 
+<br/>
 
 <img src="https://img.shields.io/badge/01-PROGRAMMING-00F7FF?style=for-the-badge&labelColor=101020"/>
 <img src="https://img.shields.io/badge/02-FRONTEND-BD00FF?style=for-the-badge&labelColor=101020"/>
@@ -99,30 +114,32 @@ AI-powered Solutions	FastAPI	AI Services
 
 </div>
 
-<h3>💻 `01` — Programming Languages</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 💻 `01` — Programming Languages
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" alt="Programming Languages"/>
 </div>
 
-<h3>🌐 `02` — Frontend Engineering</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-BD00FF?style=flat-square&labelColor=101020" alt="Section accent"/>
+### 🌐 `02` — Frontend Engineering
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend Engineering"/>
 <br/>
 <sub><i>Crafting modern interfaces and interactive web experiences.</i></sub>
 </div>
 
-<h3>⚙️ `03` — Backend & Data</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00C896?style=flat-square&labelColor=101020" alt="Section accent"/>
+### ⚙️ `03` — Backend & Data
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,supabase&theme=dark" alt="Backend and Database"/>
 <br/>
 <sub><i>Building APIs, backend services, and data-driven applications.</i></sub>
 </div>
 
-<h3>🤖 `04` — AI & Machine Learning</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-FF6F00?style=flat-square&labelColor=101020" alt="Section accent"/>
+### 🤖 `04` — AI & Machine Learning
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" alt="AI and Machine Learning"/>
 <br/><br/>
@@ -133,8 +150,8 @@ AI-powered Solutions	FastAPI	AI Services
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </div>
 
-<h3>☁️ `05` — Microsoft Azure & Cloud</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-0078D4?style=flat-square&labelColor=101020" alt="Section accent"/>
+### ☁️ `05` — Microsoft Azure & Cloud
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Microsoft Azure"/>
 <br/><br/>
@@ -144,18 +161,21 @@ AI-powered Solutions	FastAPI	AI Services
 <img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-7B2FF7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102"/>
 </div>
 
-<h3>🛠️ `06` — Developer Tools</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-4285F4?style=flat-square&labelColor=101020" alt="Section accent"/>
+### 🛠️ `06` — Developer Tools
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer Tools"/>
 </div>
 
+---
+
 <div align="center">
 
-<h3>🌌 ALWAYS EVOLVING. ALWAYS BUILDING.</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+### 🌌 ALWAYS EVOLVING. ALWAYS BUILDING.
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Exploring+Generative+AI+%F0%9F%A4%96;Mastering+DSA+with+C%2B%2B+%F0%9F%A7%A0;Building+Intelligent+Applications+%F0%9F%9A%80;Learning.+Building.+Innovating.+%E2%9C%A8" alt="Developer Journey"/>
 
+<br/>
 
 <img src="https://img.shields.io/badge/MINDSET-KEEP%20BUILDING-00F7FF?style=for-the-badge&labelColor=101020"/>
 <img src="https://img.shields.io/badge/MISSION-INNOVATE%20WITH%20AI-BD00FF?style=for-the-badge&labelColor=101020"/>
@@ -164,13 +184,13 @@ AI-powered Solutions	FastAPI	AI Services
 ---
 
 
-<div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%9A%80%20FEATURED%20PROJECTS-00C896?style=for-the-badge&labelColor=101020" alt="🚀 FEATURED PROJECTS"/></h2>
-</div>
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🚀 FEATURED PROJECTS</font></h2></td></tr></table>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=BUILDING+IDEAS+INTO+REALITY+%F0%9F%9A%80;AI+%7C+FULL+STACK+%7C+CLOUD+%E2%9C%A8;CODE.+CREATE.+INNOVATE.+%F0%9F%A4%96" alt="Featured Projects Animation"/>
 
+<br/>
 
 <img src="https://img.shields.io/badge/01-ARTIFICIAL_INTELLIGENCE-7B2FF7?style=for-the-badge&labelColor=101020"/>
 <img src="https://img.shields.io/badge/02-FULL_STACK-00D9FF?style=for-the-badge&labelColor=101020"/>
@@ -178,23 +198,26 @@ AI-powered Solutions	FastAPI	AI Services
 
 </div>
 
-<h3>🪄 CareerBloom AI</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-7B2FF7?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 🪄 CareerBloom AI
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI-CAREER_PLATFORM-7B2FF7?style=for-the-badge&logo=googlebard&logoColor=white"/>
 <img src="https://img.shields.io/badge/STATUS-PROJECT-00C896?style=for-the-badge"/>
 
-🎯 From Student to Job-Ready
+**🎯 From Student to Job-Ready**
 
 An AI-focused career development platform helping students discover career paths, identify skill gaps, and build personalized learning roadmaps.
-✨ Feature	✨ Feature
-🎯 Career Discovery	📊 Skill Gap Analyzer
-🗺️ Personalized Roadmaps	📅 Daily Action Planner
-🤖 AI Career Coach	📈 Improvement Analytics
 
+| ✨ Feature | ✨ Feature |
+|:---|:---|
+| 🎯 Career Discovery | 📊 Skill Gap Analyzer |
+| 🗺️ Personalized Roadmaps | 📅 Daily Action Planner |
+| 🤖 AI Career Coach | 📈 Improvement Analytics |
 
-⚙️ Tech Stack
+**⚙️ Tech Stack**
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
@@ -206,17 +229,19 @@ An AI-focused career development platform helping students discover career paths
 
 </div>
 
-<h3>🧠 GraphMind AI</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00D9FF?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 🧠 GraphMind AI
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI-INTELLIGENT_WORKFLOWS-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
 
-🔍 Intelligent Information Processing
+**🔍 Intelligent Information Processing**
 
 An AI-oriented project focused on intelligent information processing and graph-based workflows.
 
-⚙️ Tech Stack
+**⚙️ Tech Stack**
+
 <img src="https://img.shields.io/badge/AI-7B2FF7?style=flat-square"/>
 <img src="https://img.shields.io/badge/Graph_Workflows-00BFA6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Full_Stack-0078D4?style=flat-square"/>
@@ -227,17 +252,19 @@ An AI-oriented project focused on intelligent information processing and graph-b
 
 </div>
 
-<h3>💼 Smart Job Portal</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-0078D4?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 💼 Smart Job Portal
 <div align="center">
 
 <img src="https://img.shields.io/badge/FULL_STACK_WEB_APPLICATION-0078D4?style=for-the-badge&logo=react&logoColor=white"/>
 
-🚀 Connecting Talent with Opportunity
+**🚀 Connecting Talent with Opportunity**
 
 A full-stack job application platform designed to connect job seekers with opportunities.
 
-⚙️ Tech Stack
+**⚙️ Tech Stack**
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -250,17 +277,19 @@ A full-stack job application platform designed to connect job seekers with oppor
 
 </div>
 
-<h3>🌱 Food Share App</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00C896?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 🌱 Food Share App
 <div align="center">
 
 <img src="https://img.shields.io/badge/SOCIAL_IMPACT-00C896?style=for-the-badge&logo=react&logoColor=white"/>
 
-🤝 Sharing Food. Supporting Communities.
+**🤝 Sharing Food. Supporting Communities.**
 
 A web application concept focused on food sharing and community support.
 
-⚙️ Tech Stack
+**⚙️ Tech Stack**
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -271,56 +300,66 @@ A web application concept focused on food sharing and community support.
 
 </div>
 
-<h3>🎙️ RimeFlow Assist</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-BD00FF?style=flat-square&labelColor=101020" alt="Section accent"/>
+---
+
+### 🎙️ RimeFlow Assist
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI-VOICE_ASSISTANT-7B2FF7?style=for-the-badge&logo=probot&logoColor=white"/>
 
-🤖 Exploring Natural Voice Interaction
+**🤖 Exploring Natural Voice Interaction**
 
 An AI voice assistant project exploring voice interaction and conversational experiences.
 
-⚙️ Focus Areas
+**⚙️ Focus Areas**
 
-Voice Interaction · Speech Recognition · Conversational AI
+`Voice Interaction` · `Speech Recognition` · `Conversational AI`
+
 </div>
+
+---
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Every+Project+Starts+With+An+Idea+%F0%9F%92%A1;Every+Commit+Moves+It+Forward+%F0%9F%9A%80;Building+The+Future+With+AI+%F0%9F%A4%96" alt="Project Journey"/>
 
-⚡ LEARN • BUILD • INNOVATE • REPEAT
+**⚡ LEARN • BUILD • INNOVATE • REPEAT**
+
 </div>
 
-<div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%93%8A%20GitHub%20Statistics-4285F4?style=for-the-badge&labelColor=101020" alt="📊 GitHub Statistics"/></h2>
-</div>
+---
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">📊 GIT STATISTICS</font></h2></td></tr></table>
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SudhakarNabhigari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarNabhigari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=SudhakarNabhigari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-<div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%90%8D%20Contribution%20Activity-BD00FF?style=for-the-badge&labelColor=101020" alt="🐍 Contribution Activity"/></h2>
-</div>
+---
+
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🐍 CONTRIBUTION ACTIVITY</font></h2></td></tr></table>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/SudhakarNabhigari/SudhakarNabhigari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
+<br/>
 
-Every contribution counts. Keep building! 🚀
+**Every contribution counts. Keep building! 🚀**
+
 </div>
 
-<div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Current%20Focus-FFB000?style=for-the-badge&labelColor=101020" alt="🎯 Current Focus"/></h2>
-</div>
+---
+
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🎯 CURRENT FOCUS</font></h2></td></tr></table>
+
 - 🧩 Improving problem-solving skills with C++
 - 🐍 Strengthening Python and Machine Learning fundamentals
 - 🤖 Exploring Generative AI and RAG applications
@@ -328,59 +367,62 @@ Every contribution counts. Keep building! 🚀
 - 🚀 Building practical AI-powered projects
 - 💻 Preparing for software engineering and AI internships
 
-<div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%8F%86%20Certifications-0078D4?style=for-the-badge&labelColor=101020" alt="🏆 Certifications"/></h2>
-</div>
+---
+
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🏆 CERTIFICATIONS</font></h2></td></tr></table>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MICROSOFT+AZURE;AZURE+CERTIFICATIONS;AI+ENGINEERING" alt="Azure Certifications Animation" />
 
-
-
+<br/><br/>
 
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900"/></a>
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-00C7B7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900"/></a>
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900"/></a>
 
-
+<br/><br/>
 
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/"><img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102"/></a>
 
-
+<br/><br/>
 
 ☁️ Microsoft Azure | 🤖 Artificial Intelligence | 📊 Data Fundamentals
+
 </div>
 ---
 
-<div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%8F%86Achievements-FFD700?style=for-the-badge&labelColor=101020" alt="🏆Achievements"/></h2>
-</div>
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🏅 ACHIEVEMENTS</font></h2></td></tr></table>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=%F0%9F%8F%86+HYPNEX-2026;%F0%9F%A5%87+TOP+10+ACHIEVER;%F0%9F%8E%93+MANIPAL+UNIVERSITY+JAIPUR" alt="Hypnex 2026 Achievement" />
 
-<h3>🏆 Top 10 — Hypnexis-2026</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+### 🏆 Top 10 — Hypnexis-2026
+
 **Manipal University Jaipur, Rajasthan, India**
 
-
 🚀 Turning innovative ideas into impactful technology solutions.
+
 </div>
 ---
 
+<table width="100%"><tr><td bgcolor="#ffffff"><h2><font color="#000000">🤝 LET’S CONNECT</font></h2></td></tr></table>
+
 <div align="center">
-  <h2><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Let's%20Connect-00C896?style=for-the-badge&labelColor=101020" alt="🤝 Let's Connect"/></h2>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhakarNabhigari)
+
+**Interested in AI, Generative AI, and building meaningful projects? Let's connect and collaborate!**
+
 </div>
-<div align="center">
 
-
-Interested in AI, Generative AI, and building meaningful projects? Let's connect and collaborate!
-</div>
+---
 
 <div align="center">
 
-<h3>💡 "Great things are built one commit at a time."</h3>
-<img src="https://img.shields.io/badge/✦-SECTION-00CFE8?style=flat-square&labelColor=101020" alt="Section accent"/>
+### 💡 "Great things are built one commit at a time."
+
 ⭐ *If you find my projects interesting, consider starring the repositories!*
 
 </div>
