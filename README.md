@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer+in+Progress;Building+AI-Powered+Applications;Exploring+LLMs%2C+RAG+%26+Machine+Learning;Turning+Ideas+Into+Intelligent+Solutions" alt="Typing SVG" />
-</a>
-
-<br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudhakar+Nabhigari;Generative+AI+Engineer;AI+Developer+%7C+Full-Stack+Developer;Building+Intelligent+AI+Applications" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+</div>
 
 # 👋 Hi, I'm Sudhakar Nabhigari
 
