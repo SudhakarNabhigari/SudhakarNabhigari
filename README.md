@@ -100,7 +100,6 @@
 ---
 
 ## 🛠️ Tech Stack
-## ⚡ TECH ARSENAL
 
 <div align="center">
 
@@ -184,50 +183,151 @@
 </div>
 ---
 
-## 🚀 Featured Projects
 
-### 🌟 CareerBloom AI
-**From Student to Job-Ready**
+## 🚀 FEATURED PROJECTS
 
-An AI-focused career development platform designed to help students discover career paths, identify skill gaps, and build personalized learning roadmaps.
+<div align="center">
 
-- 🎯 Career discovery
-- 📊 Skill gap analysis
-- 🗺️ Personalized career roadmaps
-- 📅 Daily action planner
-- 🤖 AI career coach
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=BUILDING+IDEAS+INTO+REALITY+%F0%9F%9A%80;AI+%7C+FULL+STACK+%7C+CLOUD+%E2%9C%A8;CODE.+CREATE.+INNOVATE.+%F0%9F%A4%96" alt="Featured Projects Animation"/>
 
-**Tech:** React, Vite, Tailwind CSS, Recharts
+<br/>
 
-🔗 [View Repository](https://github.com/SudhakarNabhigari/CareerBloom-AI)
+<img src="https://img.shields.io/badge/01-ARTIFICIAL_INTELLIGENCE-7B2FF7?style=for-the-badge&labelColor=101020"/>
+<img src="https://img.shields.io/badge/02-FULL_STACK-00D9FF?style=for-the-badge&labelColor=101020"/>
+<img src="https://img.shields.io/badge/03-INNOVATION-00E5A8?style=for-the-badge&labelColor=101020"/>
 
-### 🧠 GraphMind AI
-
-An AI-oriented project focused on intelligent information processing and graph-based workflows.
-
-🔗 [View Repository](https://github.com/SudhakarNabhigari/GraphMind-AI)
-
-### 💼 Smart Job Portal
-
-A full-stack job application platform designed to connect job seekers with opportunities.
-
-**Tech:** React, Node.js, Express, MongoDB, TypeScript
-
-🔗 [View Repository](https://github.com/SudhakarNabhigari/smart-job-application)
-
-### 🌱 Food Share App
-
-A web application concept focused on food sharing and community support.
-
-🔗 [View Repository](https://github.com/Nani2137/food-share-angels)
-
-### 🎙️ RimeFlow Assist
-
-An AI voice assistant project exploring voice interaction and conversational experiences.
-
+</div>
 
 ---
 
+### 🪄 CareerBloom AI
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-CAREER_PLATFORM-7B2FF7?style=for-the-badge&logo=googlebard&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-PROJECT-00C896?style=for-the-badge"/>
+
+**🎯 From Student to Job-Ready**
+
+An AI-focused career development platform helping students discover career paths, identify skill gaps, and build personalized learning roadmaps.
+
+| ✨ Feature | ✨ Feature |
+|:---|:---|
+| 🎯 Career Discovery | 📊 Skill Gap Analyzer |
+| 🗺️ Personalized Roadmaps | 📅 Daily Action Planner |
+| 🤖 AI Career Coach | 📈 Improvement Analytics |
+
+**⚙️ Tech Stack**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square"/>
+
+<a href="https://github.com/SudhakarNabhigari/CareerBloom-AI">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🧠 GraphMind AI
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-INTELLIGENT_WORKFLOWS-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
+
+**🔍 Intelligent Information Processing**
+
+An AI-oriented project focused on intelligent information processing and graph-based workflows.
+
+**⚙️ Tech Stack**
+
+<img src="https://img.shields.io/badge/AI-7B2FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Graph_Workflows-00BFA6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack-0078D4?style=flat-square"/>
+
+<a href="https://github.com/SudhakarNabhigari/GraphMind-AI">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 💼 Smart Job Portal
+<div align="center">
+
+<img src="https://img.shields.io/badge/FULL_STACK_WEB_APPLICATION-0078D4?style=for-the-badge&logo=react&logoColor=white"/>
+
+**🚀 Connecting Talent with Opportunity**
+
+A full-stack job application platform designed to connect job seekers with opportunities.
+
+**⚙️ Tech Stack**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+<a href="https://github.com/SudhakarNabhigari/smart-job-application">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🌱 Food Share App
+<div align="center">
+
+<img src="https://img.shields.io/badge/SOCIAL_IMPACT-00C896?style=for-the-badge&logo=react&logoColor=white"/>
+
+**🤝 Sharing Food. Supporting Communities.**
+
+A web application concept focused on food sharing and community support.
+
+**⚙️ Tech Stack**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<a href="https://github.com/Nani2137/food-share-angels">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🎙️ RimeFlow Assist
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-VOICE_ASSISTANT-7B2FF7?style=for-the-badge&logo=probot&logoColor=white"/>
+
+**🤖 Exploring Natural Voice Interaction**
+
+An AI voice assistant project exploring voice interaction and conversational experiences.
+
+**⚙️ Focus Areas**
+
+`Voice Interaction` · `Speech Recognition` · `Conversational AI`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Every+Project+Starts+With+An+Idea+%F0%9F%92%A1;Every+Commit+Moves+It+Forward+%F0%9F%9A%80;Building+The+Future+With+AI+%F0%9F%A4%96" alt="Project Journey"/>
+
+**⚡ LEARN • BUILD • INNOVATE • REPEAT**
+
+</div>
+
+---
 ## 📊 GitHub Statistics
 
 <div align="center">
