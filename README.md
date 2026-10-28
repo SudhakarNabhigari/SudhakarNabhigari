@@ -101,47 +101,79 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack & Technologies
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Technologies+I+Build+With+%F0%9F%9A%80;AI+%7C+Full-Stack+%7C+Cloud;Always+Learning+New+Technologies+%E2%9C%A8" alt="Tech Stack Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=MY+TECH+UNIVERSE+%F0%9F%8C%8C;POWERED+BY+CODE+%26+AI+%F0%9F%A4%96;BUILDING+THE+FUTURE+%F0%9F%9A%80" alt="Animated Tech Universe"/>
 
 <br/>
 
-### 💻 Programming Languages
+<img src="https://img.shields.io/badge/01-PROGRAMMING-00F7FF?style=for-the-badge&labelColor=101020"/>
+<img src="https://img.shields.io/badge/02-FRONTEND-BD00FF?style=for-the-badge&labelColor=101020"/>
+<img src="https://img.shields.io/badge/03-BACKEND-00E5A8?style=for-the-badge&labelColor=101020"/>
+<img src="https://img.shields.io/badge/04-AI%20%26%20CLOUD-FFB000?style=for-the-badge&labelColor=101020"/>
+
+</div>
+
+---
+
+### 💻 `01` — Programming Languages
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" alt="Programming Languages"/>
 
 <br/><br/>
 
-### 🌐 Frontend Development
+![Python](https://img.shields.io/badge/Python-Advanced%20Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Problem%20Solving-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
+</div>
+
+### 🌐 `02` — Frontend Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend Engineering"/>
 
 <br/><br/>
 
-### ⚙️ Backend & Database
+*Crafting modern interfaces and interactive web experiences.*
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,supabase&theme=dark" alt="Backend and Database Technologies"/>
+</div>
+
+### ⚙️ `03` — Backend & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,supabase&theme=dark" alt="Backend and Database"/>
 
 <br/><br/>
 
-### 🤖 Artificial Intelligence & Data Science
+*Building APIs, backend services, and data-driven applications.*
 
-<img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" alt="AI and Python"/>
+</div>
+
+### 🤖 `04` — AI & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" alt="AI and Machine Learning"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/RAG_APPLICATIONS-00BFA6?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Applications"/>
+<img src="https://img.shields.io/badge/RAG_APPLICATIONS-00BFA6?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-<br/><br/>
+</div>
 
-### ☁️ Cloud & Microsoft Azure
+### ☁️ `05` — Microsoft Azure & Cloud
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Microsoft Azure"/>
 
@@ -152,20 +184,32 @@
 <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-008272?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900"/>
 <img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-7B2FF7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102"/>
 
-<br/><br/>
+</div>
 
-### 🔧 Developer Tools
+### 🛠️ `06` — Developer Tools
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer Tools"/>
 
-<br/><br/>
+</div>
 
-### ⚡ Always Improving
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7B2FF7&center=true&vCenter=true&width=600&lines=Learning+DSA+with+C%2B%2B+%F0%9F%A7%A9;Exploring+Generative+AI+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Growing+as+an+AI+Engineer+%E2%9C%A8" alt="Learning Animation"/>
+<div align="center">
+
+### 🌌 ALWAYS EVOLVING. ALWAYS BUILDING.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Exploring+Generative+AI+%F0%9F%A4%96;Mastering+DSA+with+C%2B%2B+%F0%9F%A7%A0;Building+Intelligent+Applications+%F0%9F%9A%80;Learning.+Building.+Innovating.+%E2%9C%A8" alt="Developer Journey"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MINDSET-KEEP%20BUILDING-00F7FF?style=for-the-badge&labelColor=101020"/>
+<img src="https://img.shields.io/badge/MISSION-INNOVATE%20WITH%20AI-BD00FF?style=for-the-badge&labelColor=101020"/>
 
 </div>
 
+---
 ---
 
 ## 🚀 Featured Projects
