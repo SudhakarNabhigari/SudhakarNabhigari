@@ -176,28 +176,22 @@ An AI voice assistant project exploring voice interaction and conversational exp
 
 ## 🏆 Certifications
 
----
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%F0%9F%8F%86+MICROSOFT+CERTIFICATIONS;%E2%98%81%EF%B8%8F+AZURE+FUNDAMENTALS;%F0%9F%A4%96+AZURE+AI+ENGINEER" alt="Animated Certifications Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=🏆+Microsoft+Azure+Certifications;☁️+Cloud+%7C+AI+%7C+Data" alt="Azure Certifications Animation" />
 
 <br/><br/>
 
-<a href="https://learn.microsoft.com/credentials/certifications/azure-fundamentals/">
-<img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals"/>
-</a>
+<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals" />
 
-<a href="https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals/">
-<img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900 Azure Data Fundamentals"/>
-</a>
+<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-00C7B7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900 Azure AI Fundamentals" />
 
-<a href="https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/">
-<img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102 Azure AI Engineer"/>
-</a>
+<img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-008272?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900 Azure Data Fundamentals" />
+
+<img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-7F00FF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102 Azure AI Engineer Associate" />
 
 </div>
-
 ---
 
 ## 🏆Achievements
