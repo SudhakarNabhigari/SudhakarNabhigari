@@ -1,20 +1,26 @@
+
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudhakar+Nabhigari;Generative+AI+Engineer;AI+Developer+%7C+Full-Stack+Developer;Building+Intelligent+AI+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudhakar+Nabhigari;Generative+AI+Engineer;AI+%26+Full-Stack+Developer;Turning+Ideas+Into+Intelligent+Solutions" alt="Typing SVG" />
   </a>
-  <br/><br/>
-</div>
 
-# 👋 Hi, I'm Sudhakar Nabhigari
+  <br/>
 
-### 🚀 Generative AI Engineer | AI Developer | Full-Stack Developer
+  ### 👋 Hey there! Welcome to my GitHub.
 
-**Building intelligent applications that solve real-world problems.**
+  **I'm Sudhakar Nabhigari**, a B.Tech Computer Science Engineering student at Lovely Professional University.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/SudhakarNabhigari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SudhakarNabhigari)
+  I'm passionate about technology, especially Generative AI, Machine Learning, and Full-Stack Development. I enjoy exploring new ideas, building practical projects, and learning how technology can solve real-world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhakarNabhigari&color=blueviolet&style=for-the-badge)
+  My goal is to grow as a Generative AI Engineer and create applications that make a meaningful difference.
+
+  <br/>
+
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/SudhakarNabhigari)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SudhakarNabhigari)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=SudhakarNabhigari&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -27,34 +33,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudhakar+Nabhigari+%F0%9F%91%8B;Generative+AI+Engineer+%F0%9F%A4%96;AI+Developer+%7C+Full-Stack+Developer;Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing Animation" />
-
-<br/>
-
-<a href="https://github.com/SudhakarNabhigari">
-<img src="https://img.shields.io/badge/PROFILE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-<a href="https://github.com/SudhakarNabhigari">
-<img src="https://img.shields.io/badge/FOCUS-Generative%20AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-</a>
-<a href="https://github.com/SudhakarNabhigari">
-<img src="https://img.shields.io/badge/ACHIEVEMENT-Hypnex%202026%20Top%2010-FFD700?style=for-the-badge&logo=hackclub&logoColor=black" alt="Hypnex Achievement"/>
-</a>
-
-<br/><br/>
-
-### 🚀 Building the Future with AI
-
-**Generative AI Engineer | AI Developer | Full-Stack Developer**
-
-*Building intelligent applications that solve real-world problems.*
-
-</div>
-
----
 
 ### 🎓 A Little About Me
 
